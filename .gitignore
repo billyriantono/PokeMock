@@ -42,4 +42,5 @@ client/.idea/libraries
 
 server/node_modules
 .idea
-server/.idea
+server/.idea/
+client/.idea/
