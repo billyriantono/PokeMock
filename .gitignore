@@ -41,3 +41,5 @@ client/.idea/libraries
 *.jks
 
 server/node_modules
+.idea
+server/.idea
